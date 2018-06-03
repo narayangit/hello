@@ -2,6 +2,7 @@ GIT install and configure
 https://www.youtube.com/watch?v=J_Clau1bYco
 
 ctrl+L - clear history
+clear - clear history
 
 cd /d
 cd git_folder
@@ -21,3 +22,16 @@ git status
 git rm --cached narayan.php
 git status
 git commit		//open automatic default editor and just remove "# tag from initial commit"
+git commit -m "changed narayan.php"
+
+git branch polai
+git checkout polai
+git merge polai
+
+git remote
+git remote add origin https://github.com/narayangit/hello.git	//copy and paste from gitgub.com
+git remote
+git push -u origin master					//copy and paste from gitgub.com
+
+
+
