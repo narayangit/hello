@@ -33,5 +33,5 @@ git remote add origin https://github.com/narayangit/hello.git	//copy and paste f
 git remote
 git push -u origin master					//copy and paste from gitgub.com
 
-
-
+git commit -m "changed second time" narayan.php
+git push -u origin master
