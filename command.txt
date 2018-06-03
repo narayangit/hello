@@ -1,5 +1,4 @@
-GIT install and configure
-https://www.youtube.com/watch?v=J_Clau1bYco
+GIT configure
 
 ctrl+L - clear history
 clear - clear history
