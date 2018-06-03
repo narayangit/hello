@@ -1,0 +1,23 @@
+GIT install and configure
+https://www.youtube.com/watch?v=J_Clau1bYco
+
+ctrl+L - clear history
+
+cd /d
+cd git_folder
+
+touch narayan.php
+git init
+
+git config --global user.name "narayangit"
+git config --global user.email "naru.ald@gmail.com"
+git clone https://www.github.com/narayangit...
+git config --list
+
+git add narayan.php	//add single file
+git add *.php 		//add all php files
+git add .			//add all files
+git status
+git rm --cached narayan.php
+git status
+git commit		//open automatic default editor and just remove "# tag from initial commit"
